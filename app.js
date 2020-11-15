@@ -3,38 +3,38 @@ let data = {
         a:{
             company: "Sift",
             location: "San Francisco",
-            logo: "sift.jpg"
+            logo: "/img/icons/sift.jpg"
         },
         b:{
             company: "SigOpt",
             location: "San Francisco",
-            logo: "sigopt.jpg"
+            logo: "/img/icons/sigopt.jpg"
         },
         c:{
             company: "Quadric",
             location: "Silicon Valley",
-            logo: "quadric.jpg"
+            logo: "/img/icons/quadric.jpg"
         }
     },
     Texas:{
         company: "Mythic",
         location: "Austin",
-        logo: "mythic.jpg"
+        logo: "/img/icons/mythic.jpg"
     },
     Michigan:{
         company: "Clinc",
         location: "Ann Arbor",
-        logo: "clinc.jpg"
+        logo: "/img/icons/clinc.jpg"
     },
     'North Carolina': {
         company: "AI Patent Law",
         location: "Charlotte",
-        logo: "AI-Patent-Law.jpg"
+        logo: "/img/icons/AI-Patent-Law.jpg"
     },
     'District Of Columbia': {
         company: "Expel",
         location: "Washington",
-        logo: "expel.jpg"
+        logo: "/img/icons/expel.jpg"
     }
 }
 
